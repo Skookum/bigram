@@ -1,0 +1,27 @@
+{
+  "name": "bigram",
+  "version": "1.0.0",
+  "description": "Bigram fuzzy searching",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Skookum/bigram.git"
+  },
+  "keywords": [
+    "fuzzy",
+    "search",
+    "bigram"
+  ],
+  "author": "Skookum Digital Works",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skookum/bigram/issues"
+  },
+  "homepage": "https://github.com/Skookum/bigram"
+}
